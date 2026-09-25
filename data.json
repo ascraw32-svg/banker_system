@@ -32,5 +32,18 @@
         {"label": "Loud noise ($30)", "amount": 30.0, "reason": "Being too loud"},
         {"label": "Missed chore ($90)", "amount": 90.0, "reason": "Not doing your chore"},
         {"label": "Not mindful ($120)", "amount": 120.0, "reason": "Hurting student / Not mindful"}
+    ],
+    "inventory": {
+        "ITEM_01": {"name": "Pencil Pass", "price": 15.0},
+        "ITEM_02": {"name": "Homework Pass", "price": 50.0},
+        "ITEM_03": {"name": "Snack Box", "price": 30.0}
+    }
+}
+        {"label": "Not cleaning up ($50)", "amount": 50.0, "reason": "Not cleaning up after self"},
+        {"label": "Not on time ($35)", "amount": 35.0, "reason": "Not coming to station on time"},
+        {"label": "Being rude ($40)", "amount": 40.0, "reason": "Being rude"},
+        {"label": "Loud noise ($30)", "amount": 30.0, "reason": "Being too loud"},
+        {"label": "Missed chore ($90)", "amount": 90.0, "reason": "Not doing your chore"},
+        {"label": "Not mindful ($120)", "amount": 120.0, "reason": "Hurting student / Not mindful"}
     ]
 }
