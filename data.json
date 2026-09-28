@@ -1,21 +1,221 @@
 {
     "accounts": [
-        {"account_id": 1, "name": "Asher", "card_code": "A101", "pin": "4762", "job": "Banker", "jobs": ["Banker"], "balance": 0.0, "tax_owed": 0.0, "unpaid_tax_months": 0, "paid_yet": false},
-        {"account_id": 2, "name": "Alyson", "card_code": "A102", "pin": "4247", "job": "Chore Checker", "jobs": ["Chore Checker"], "balance": 0.0, "tax_owed": 0.0, "unpaid_tax_months": 0, "paid_yet": false},
-        {"account_id": 3, "name": "Aaliyah", "card_code": "A103", "pin": "1654", "job": "Classroom Assistant", "jobs": ["Classroom Assistant"], "balance": 0.0, "tax_owed": 0.0, "unpaid_tax_months": 0, "paid_yet": false},
-        {"account_id": 4, "name": "Brantly", "card_code": "B104", "pin": "2143", "job": "Store Manager", "jobs": ["Store Manager"], "balance": 0.0, "tax_owed": 0.0, "unpaid_tax_months": 0, "paid_yet": false},
-        {"account_id": 5, "name": "Bella", "card_code": "B105", "pin": "2115", "job": "Science Assistant", "jobs": ["Science Assistant"], "balance": 0.0, "tax_owed": 0.0, "unpaid_tax_months": 0, "paid_yet": false},
-        {"account_id": 6, "name": "Caleb", "card_code": "C106", "pin": "2031", "job": "Art Assistant", "jobs": ["Art Assistant"], "balance": 0.0, "tax_owed": 0.0, "unpaid_tax_months": 0, "paid_yet": false},
-        {"account_id": 7, "name": "Daniel", "card_code": "D107", "pin": "2525", "job": "Chore Checker", "jobs": ["Chore Checker"], "balance": 0.0, "tax_owed": 0.0, "unpaid_tax_months": 0, "paid_yet": false},
-        {"account_id": 8, "name": "Izariah", "card_code": "I108", "pin": "2331", "job": "Classroom Assistant", "jobs": ["Classroom Assistant"], "balance": 0.0, "tax_owed": 0.0, "unpaid_tax_months": 0, "paid_yet": false},
-        {"account_id": 9, "name": "Judah", "card_code": "J109", "pin": "2587", "job": "Store Manager", "jobs": ["Store Manager"], "balance": 0.0, "tax_owed": 0.0, "unpaid_tax_months": 0, "paid_yet": false},
-        {"account_id": 10, "name": "Grace", "card_code": "G110", "pin": "2444", "job": "Banker", "jobs": ["Banker"], "balance": 0.0, "tax_owed": 0.0, "unpaid_tax_months": 0, "paid_yet": false},
-        {"account_id": 11, "name": "Nadia", "card_code": "N111", "pin": "2247", "job": "Science Assistant", "jobs": ["Science Assistant"], "balance": 0.0, "tax_owed": 0.0, "unpaid_tax_months": 0, "paid_yet": false},
-        {"account_id": 12, "name": "Pierson", "card_code": "P112", "pin": "1802", "job": "Art Assistant", "jobs": ["Art Assistant"], "balance": 0.0, "tax_owed": 0.0, "unpaid_tax_months": 0, "paid_yet": false},
-        {"account_id": 13, "name": "Peter", "card_code": "P113", "pin": "1124", "job": "None", "jobs": [], "balance": 0.0, "tax_owed": 0.0, "unpaid_tax_months": 0, "paid_yet": false},
-        {"account_id": 14, "name": "Sarah", "card_code": "S114", "pin": "4733", "job": "None", "jobs": [], "balance": 0.0, "tax_owed": 0.0, "unpaid_tax_months": 0, "paid_yet": false},
-        {"account_id": 15, "name": "Thalia", "card_code": "T115", "pin": "4152", "job": "None", "jobs": [], "balance": 0.0, "tax_owed": 0.0, "unpaid_tax_months": 0, "paid_yet": false},
-        {"account_id": 16, "name": "Shiloh", "card_code": "S116", "pin": "4737", "job": "None", "jobs": [], "balance": 0.0, "tax_owed": 0.0, "unpaid_tax_months": 0, "paid_yet": false}
+        {
+            "account_id": 1,
+            "name": "Asher",
+            "card_code": "A101",
+            "pin": "4762",
+            "job": "Banker",
+            "jobs": [
+                "Banker"
+            ],
+            "balance": 0.0,
+            "tax_owed": 0.0,
+            "unpaid_tax_months": 0,
+            "paid_yet": false
+        },
+        {
+            "account_id": 2,
+            "name": "Alyson",
+            "card_code": "A102",
+            "pin": "4247",
+            "job": "Chore Checker",
+            "jobs": [
+                "Chore Checker"
+            ],
+            "balance": 0.0,
+            "tax_owed": 0.0,
+            "unpaid_tax_months": 0,
+            "paid_yet": false
+        },
+        {
+            "account_id": 3,
+            "name": "Aaliyah",
+            "card_code": "A103",
+            "pin": "1654",
+            "job": "Classroom Assistant",
+            "jobs": [
+                "Classroom Assistant"
+            ],
+            "balance": 0.0,
+            "tax_owed": 0.0,
+            "unpaid_tax_months": 0,
+            "paid_yet": false
+        },
+        {
+            "account_id": 4,
+            "name": "Brantly",
+            "card_code": "B104",
+            "pin": "2143",
+            "job": "Store Manager",
+            "jobs": [
+                "Store Manager"
+            ],
+            "balance": 0.0,
+            "tax_owed": 0.0,
+            "unpaid_tax_months": 0,
+            "paid_yet": false
+        },
+        {
+            "account_id": 5,
+            "name": "Bella",
+            "card_code": "B105",
+            "pin": "2115",
+            "job": "Science Assistant",
+            "jobs": [
+                "Science Assistant"
+            ],
+            "balance": 0.0,
+            "tax_owed": 0.0,
+            "unpaid_tax_months": 0,
+            "paid_yet": false
+        },
+        {
+            "account_id": 6,
+            "name": "Caleb",
+            "card_code": "C106",
+            "pin": "2031",
+            "job": "Art Assistant",
+            "jobs": [
+                "Art Assistant"
+            ],
+            "balance": 0.0,
+            "tax_owed": 0.0,
+            "unpaid_tax_months": 0,
+            "paid_yet": false
+        },
+        {
+            "account_id": 7,
+            "name": "Daniel",
+            "card_code": "D107",
+            "pin": "2525",
+            "job": "Chore Checker",
+            "jobs": [
+                "Chore Checker"
+            ],
+            "balance": 0.0,
+            "tax_owed": 0.0,
+            "unpaid_tax_months": 0,
+            "paid_yet": false
+        },
+        {
+            "account_id": 8,
+            "name": "Izariah",
+            "card_code": "I108",
+            "pin": "2331",
+            "job": "Classroom Assistant",
+            "jobs": [
+                "Classroom Assistant"
+            ],
+            "balance": 0.0,
+            "tax_owed": 0.0,
+            "unpaid_tax_months": 0,
+            "paid_yet": false
+        },
+        {
+            "account_id": 9,
+            "name": "Judah",
+            "card_code": "J109",
+            "pin": "2587",
+            "job": "Store Manager",
+            "jobs": [
+                "Store Manager"
+            ],
+            "balance": 0.0,
+            "tax_owed": 0.0,
+            "unpaid_tax_months": 0,
+            "paid_yet": false
+        },
+        {
+            "account_id": 10,
+            "name": "Grace",
+            "card_code": "G110",
+            "pin": "2444",
+            "job": "Banker",
+            "jobs": [
+                "Banker"
+            ],
+            "balance": 0.0,
+            "tax_owed": 0.0,
+            "unpaid_tax_months": 0,
+            "paid_yet": false
+        },
+        {
+            "account_id": 11,
+            "name": "Nadia",
+            "card_code": "N111",
+            "pin": "2247",
+            "job": "Science Assistant",
+            "jobs": [
+                "Science Assistant"
+            ],
+            "balance": 0.0,
+            "tax_owed": 0.0,
+            "unpaid_tax_months": 0,
+            "paid_yet": false
+        },
+        {
+            "account_id": 12,
+            "name": "Pierson",
+            "card_code": "P112",
+            "pin": "1802",
+            "job": "Art Assistant",
+            "jobs": [
+                "Art Assistant"
+            ],
+            "balance": 0.0,
+            "tax_owed": 0.0,
+            "unpaid_tax_months": 0,
+            "paid_yet": false
+        },
+        {
+            "account_id": 13,
+            "name": "Peter",
+            "card_code": "P113",
+            "pin": "1124",
+            "job": "None",
+            "jobs": [],
+            "balance": 0.0,
+            "tax_owed": 0.0,
+            "unpaid_tax_months": 0,
+            "paid_yet": false
+        },
+        {
+            "account_id": 14,
+            "name": "Sarah",
+            "card_code": "S114",
+            "pin": "4733",
+            "job": "None",
+            "jobs": [],
+            "balance": 0.0,
+            "tax_owed": 0.0,
+            "unpaid_tax_months": 0,
+            "paid_yet": false
+        },
+        {
+            "account_id": 15,
+            "name": "Thalia",
+            "card_code": "T115",
+            "pin": "4152",
+            "job": "None",
+            "jobs": [],
+            "balance": 0.0,
+            "tax_owed": 0.0,
+            "unpaid_tax_months": 0,
+            "paid_yet": false
+        },
+        {
+            "account_id": 16,
+            "name": "Shiloh",
+            "card_code": "S116",
+            "pin": "4737",
+            "job": "None",
+            "jobs": [],
+            "balance": 0.0,
+            "tax_owed": 0.0,
+            "unpaid_tax_months": 0,
+            "paid_yet": false
+        }
     ],
     "job_pay_rates": {
         "Banker": 150.0,
@@ -26,17 +226,49 @@
         "Art Assistant": 150.0
     },
     "fines_list": [
-        {"label": "Not cleaning up ($50)", "amount": 50.0, "reason": "Not cleaning up after self"},
-        {"label": "Not on time ($35)", "amount": 35.0, "reason": "Not coming to station on time"},
-        {"label": "Being rude ($40)", "amount": 40.0, "reason": "Being rude"},
-        {"label": "Loud noise ($30)", "amount": 30.0, "reason": "Being too loud"},
-        {"label": "Missed chore ($90)", "amount": 90.0, "reason": "Not doing your chore"},
-        {"label": "Not mindful ($120)", "amount": 120.0, "reason": "Hurting student / Not mindful"}
+        {
+            "label": "Not cleaning up ($50)",
+            "amount": 50.0,
+            "reason": "Not cleaning up after self"
+        },
+        {
+            "label": "Not on time ($35)",
+            "amount": 35.0,
+            "reason": "Not coming to station on time"
+        },
+        {
+            "label": "Being rude ($40)",
+            "amount": 40.0,
+            "reason": "Being rude"
+        },
+        {
+            "label": "Loud noise ($30)",
+            "amount": 30.0,
+            "reason": "Being too loud"
+        },
+        {
+            "label": "Missed chore ($90)",
+            "amount": 90.0,
+            "reason": "Not doing your chore"
+        },
+        {
+            "label": "Not mindful ($120)",
+            "amount": 120.0,
+            "reason": "Hurting student / Not mindful"
+        }
     ],
     "inventory": {
-        "ITEM_01": {"name": "Pencil Pass", "price": 15.0},
-        "ITEM_02": {"name": "Homework Pass", "price": 50.0},
-        "ITEM_03": {"name": "Snack Box", "price": 30.0}
+        "ITEM_01": {
+            "name": "Pencil Pass",
+            "price": 15.0
+        },
+        "ITEM_02": {
+            "name": "Homework Pass",
+            "price": 50.0
+        },
+        "ITEM_03": {
+            "name": "Snack Box",
+            "price": 30.0
+        }
     }
 }
-
