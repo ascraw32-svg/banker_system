@@ -75,9 +75,9 @@
             "name": "Caleb",
             "card_code": "C106",
             "pin": "2031",
-            "job": "Art Assistant",
+            "job": "Chore Checker",
             "jobs": [
-                "Art Assistant"
+                "Chore Checker"
             ],
             "balance": 0.0,
             "tax_owed": 0.0,
