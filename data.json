@@ -33,9 +33,9 @@
             "name": "Aaliyah",
             "card_code": "A103",
             "pin": "1654",
-            "job": "Classroom Assistant",
+            "job": "Chore Checker",
             "jobs": [
-                "Classroom Assistant"
+                "Chore Checker"
             ],
             "balance": 0.0,
             "tax_owed": 0.0,
