@@ -209,8 +209,11 @@
             "name": "Shiloh",
             "card_code": "S116",
             "pin": "4737",
-            "job": "None",
-            "jobs": [],
+            "job": "Classroom Assistant, Store Manager",
+            "jobs": [
+                "Classroom Assistant",
+                "Store Manager"
+            ],
             "balance": 350.0,
             "tax_owed": 0.0,
             "unpaid_tax_months": 0,
