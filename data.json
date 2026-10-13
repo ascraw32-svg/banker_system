@@ -145,10 +145,8 @@
             "name": "Nadia",
             "card_code": "N111",
             "pin": "2247",
-            "job": "Science Assistant",
-            "jobs": [
-                "Science Assistant"
-            ],
+            "job": "None",
+            "jobs": [],
             "balance": 0.0,
             "tax_owed": 0.0,
             "unpaid_tax_months": 0,
