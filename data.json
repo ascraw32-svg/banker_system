@@ -131,7 +131,7 @@
             "jobs": [
                 "Science Assistant"
             ],
-            "balance": 150.0,
+            "balance": 300.0,
             "tax_owed": 0.0,
             "unpaid_tax_months": 0,
             "paid_yet": false
