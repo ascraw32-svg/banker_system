@@ -101,10 +101,8 @@
             "name": "Izariah",
             "card_code": "I108",
             "pin": "2331",
-            "job": "Classroom Assistant",
-            "jobs": [
-                "Classroom Assistant"
-            ],
+            "job": "None",
+            "jobs": [],
             "balance": 0.0,
             "tax_owed": 0.0,
             "unpaid_tax_months": 0,
