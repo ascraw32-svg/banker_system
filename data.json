@@ -127,9 +127,9 @@
             "name": "Grace",
             "card_code": "G110",
             "pin": "2444",
-            "job": "Banker",
+            "job": "Science Assistant",
             "jobs": [
-                "Banker"
+                "Science Assistant"
             ],
             "balance": 0.0,
             "tax_owed": 0.0,
