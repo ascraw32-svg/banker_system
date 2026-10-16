@@ -191,7 +191,7 @@
             "pin": "4152",
             "job": "None",
             "jobs": [],
-            "balance": 40.0,
+            "balance": 25.0,
             "tax_owed": 0.0,
             "unpaid_tax_months": 0,
             "paid_yet": false
