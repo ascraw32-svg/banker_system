@@ -42,7 +42,7 @@
         },
         {
             "account_id": 4,
-            "name": "Brantley",
+            "name": "Brantly",
             "card_code": "B104",
             "pin": "2143",
             "job": "Store Manager",
@@ -115,7 +115,7 @@
             "jobs": [
                 "Banker"
             ],
-            "balance": 450.0,
+            "balance": 250.0,
             "tax_owed": 0.0,
             "unpaid_tax_months": 0,
             "paid_yet": false
