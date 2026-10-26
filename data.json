@@ -59,10 +59,8 @@
             "name": "Bella",
             "card_code": "B105",
             "pin": "2115",
-            "job": "Science Assistant",
-            "jobs": [
-                "Science Assistant"
-            ],
+            "job": "None",
+            "jobs": [],
             "balance": 0.0,
             "tax_owed": 0.0,
             "unpaid_tax_months": 0,
