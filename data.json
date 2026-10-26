@@ -89,7 +89,7 @@
             "pin": "2525",
             "job": "None",
             "jobs": [],
-            "balance": 180.0,
+            "balance": 0.0,
             "tax_owed": 0.0,
             "unpaid_tax_months": 0,
             "paid_yet": false
