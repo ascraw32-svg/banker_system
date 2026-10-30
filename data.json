@@ -49,7 +49,7 @@
             "jobs": [
                 "Store Manager"
             ],
-            "balance": 185.75,
+            "balance": 200.75,
             "tax_owed": 0.0,
             "unpaid_tax_months": 0,
             "paid_yet": false
