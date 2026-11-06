@@ -113,7 +113,7 @@
             "jobs": [
                 "Banker"
             ],
-            "balance": 500.79999999999984,
+            "balance": 503.79999999999984,
             "tax_owed": 0.0,
             "unpaid_tax_months": 0,
             "paid_yet": false
