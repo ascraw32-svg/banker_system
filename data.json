@@ -9,7 +9,7 @@
             "jobs": [
                 "Banker"
             ],
-            "balance": 873.5,
+            "balance": 1023.5,
             "tax_owed": 0.0,
             "unpaid_tax_months": 0,
             "paid_yet": false
@@ -35,7 +35,7 @@
             "jobs": [
                 "Chore Checker"
             ],
-            "balance": 1120.0,
+            "balance": 1300.0,
             "tax_owed": 0.0,
             "unpaid_tax_months": 0,
             "paid_yet": false
@@ -49,7 +49,7 @@
             "jobs": [
                 "Store Manager"
             ],
-            "balance": 404.0,
+            "balance": 504.0,
             "tax_owed": 0.0,
             "unpaid_tax_months": 0,
             "paid_yet": false
@@ -75,7 +75,7 @@
             "jobs": [
                 "Chore Checker"
             ],
-            "balance": 245.0,
+            "balance": 425.0,
             "tax_owed": 0.0,
             "unpaid_tax_months": 0,
             "paid_yet": false
@@ -113,7 +113,7 @@
             "jobs": [
                 "Banker"
             ],
-            "balance": 506.79999999999984,
+            "balance": 656.7999999999998,
             "tax_owed": 0.0,
             "unpaid_tax_months": 0,
             "paid_yet": false
@@ -127,7 +127,7 @@
             "jobs": [
                 "Science Assistant"
             ],
-            "balance": 985.0,
+            "balance": 1135.0,
             "tax_owed": 0.0,
             "unpaid_tax_months": 0,
             "paid_yet": false
@@ -153,7 +153,7 @@
             "jobs": [
                 "Art Assistant"
             ],
-            "balance": 900.0,
+            "balance": 1050.0,
             "tax_owed": 0.0,
             "unpaid_tax_months": 0,
             "paid_yet": false
@@ -204,7 +204,7 @@
                 "Classroom Assistant",
                 "Store Manager"
             ],
-            "balance": 2004.0,
+            "balance": 2354.0,
             "tax_owed": 0.0,
             "unpaid_tax_months": 0,
             "paid_yet": false
