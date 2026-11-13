@@ -9,7 +9,7 @@
             "jobs": [
                 "Banker"
             ],
-            "balance": 1070.5,
+            "balance": 870.5,
             "tax_owed": 0.0,
             "unpaid_tax_months": 0,
             "paid_yet": false
